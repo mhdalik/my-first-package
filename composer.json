@@ -1,11 +1,11 @@
 {
-  "name": "yourname/my-first-package",
+  "name": "mhdalik/my-first-package",
   "description": "Just testing my first Composer package",
   "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "YourName\\MyFirstPackage\\": "src/"
+      "Mhdalik\\MyFirstPackage\\": "src/"
     }
   },
   "require": {}
